@@ -2,6 +2,7 @@
 
 ![Alt text](https://github.com/devole1/A520MK-RYZENTOSH/blob/main/Screenshot%202025-04-28%20at%2010.02.11.png "A520MKHACKTINOSH")
 
+TESTED ON macOS Sequoia 15.4.1
 
 hi guys,
 this is my hackintosh setup:
