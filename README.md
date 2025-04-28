@@ -1,5 +1,8 @@
 # A520MK RYZENTOSH
 
+![Alt text](https://github.com/devole1/A520MK-RYZENTOSH/blob/main/Screenshot%202025-04-28%20at%2010.02.11.png "A520MKHACKTINOSH")
+
+
 hi guys,
 this is my hackintosh setup:
 - A520M-K v2
