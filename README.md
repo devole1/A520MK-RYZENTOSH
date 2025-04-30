@@ -3,7 +3,7 @@
 ![Alt text](https://github.com/devole1/A520MK-RYZENTOSH/blob/main/mac.png "A520MKHACKTINOSH")
 
 TESTED ON:
-- macOS Sequoia 15.4.1
+- macOS Sequoia 15.4.1(included Geekbench 6 results)
 
 hi guys,
 this is my hackintosh setup:
