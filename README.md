@@ -8,7 +8,7 @@ Should work fine on all 15.x released until 28.April.2025
 
 hi guys,
 this is my hackintosh setup:
-- A520M-K v2
+- GIGABYTE A520M-K v2
 - RYZEN 5 4500 6C 12T
 - RX 6600
 - 16 GB RAM DDR4 3200
