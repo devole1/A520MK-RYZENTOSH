@@ -4,28 +4,27 @@
 
 TESTED ON:
 - macOS Sequoia 15.4.1
-Should work fine on all 15.x released until 28.April.2025 
 
 hi guys,
 this is my hackintosh setup:
-- GIGABYTE A520M-K v2
-- RYZEN 5 4500 6C 12T
+- Gigabyte A520M-K v2
+- Ryzen 5 4500 6C 12T
 - RX 6600
-- 16 GB RAM DDR4 3200
+- 16 GB ram DDR4
 
 What works:
-- CPU- 100%
-- NVME- 100%
-- MOTHERBOARD- 100%
-- USB- 100%
-- GPU WITH ACCELERATION- 100%(using shanee patch)
-- NETWORK- 100%
-- AUDIO- 100%
+- Cpu- 100%
+- Storage(NVME)- 100%
+- Motherboard- 100%
+- Usb- 100%
+- Gpu with graphics acceleration- 100%(using shanee patch)
+- Network- 100%
+- Audio(tested via motherboard and USB)- 100%
 
 What may work:
-- POWERMANAGEMENT- 99% best that AMDRyzenCPUPowerManagement can do
+- Power management- 99% best that AMDRyzenCPUPowerManagement can do
 - iServices= yes and no: can login into icloud and appstore,but iMessage does not work
 
-Please change the Board Information using ProperTree and GENSMBIOS.
+Please change the Board Information using ProperTree and genSMBIOS.
 
 
